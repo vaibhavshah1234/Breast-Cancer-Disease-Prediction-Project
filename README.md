@@ -110,7 +110,7 @@ Here are some related projects
   
 ## Feedback
 
-If you have any feedback, please reach out to me at [LinkedIn](linkedin.com/in/vaibhav-shah-704104212)
+If you have any feedback, please reach out to me at [LinkedIn](https://www.linkedin.com/in/vaibhav-shah-704104212/)
 
 Please do ⭐ the repository, if you like this 😊
 
